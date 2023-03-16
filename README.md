@@ -10,8 +10,10 @@ The language supports basic data types such as int/float/string/bool. Variables 
 The language provides several constructs for controlling the flow of execution in a program, including:
 
 If/Else statements: for branching based on a condition
+
 While loops: for executing a block of code repeatedly while a condition is true
-Pattern Matching: a powerful mechanism that allows for more expressive and versatile pattern matching than traditional switch statements in other programming languages
+
+Pattern Matching: a mechanism that allows for more expressive and versatile pattern matching than traditional switch statements in other programming languages
 
 ## Functions
 Functions can be defined using the function keyword, followed by the function name and parameter list. The body of the function is then indented and executed when the function is called. The language allows for the creation and use of functions and includes support for passing variables by reference or value.
